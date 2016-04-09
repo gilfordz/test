@@ -1,5 +1,6 @@
 <?php
-include("token.php");
+define('TOKEN','217631578:AAG9ex4PtCCM2K-CbIZMWakhjXqjfng-YKg');
+
 
 function request_url($method)
 {
